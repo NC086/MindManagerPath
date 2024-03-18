@@ -25,3 +25,4 @@ https://dwnld.mindjet.com/secure/Builds/MindManager21.1/21_1_231/64Bit/MindManag
 https://dwnld.mindjet.com/stubs/Builds/MindManager2020.1/20_1_238/64Bit/MindManager%202020.msi
 https://dwnld.mindjet.com/stubs/Builds/MindManager2020.1/20_1_238/32Bit/MindManager%202020.msi
 ```
+通用在线激活密钥：MP20-888-MP11-AAA5-BBBB
